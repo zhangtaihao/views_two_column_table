@@ -1,5 +1,4 @@
 <?php
-// $Id$
 
 /**
  * Display the view as a two column table.
